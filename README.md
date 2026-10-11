@@ -10,6 +10,10 @@ Verwendete Tools:
     Entwicklungsumgebung: Git Bash
     Kommunikation: Discorod, Whatsapp
 
+
+
+Naruto ist toll oder so.
+
 Aufgaben verteilung
 Die Aufgaben wurden in der Gruppe aufgeteilt
 Benno:
