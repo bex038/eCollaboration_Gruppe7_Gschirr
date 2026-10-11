@@ -1,10 +1,12 @@
-# Gruppenname: Gruppe 7
+# Gruppenname: Bestes Team
+
 
 Mathias:
 
 Zusammenarbeit in der Gruppe:
 
 Lia Lechner 
+>>>>>>> origin/main
 
 
 
