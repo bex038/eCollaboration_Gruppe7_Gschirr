@@ -23,6 +23,19 @@ Verwendete Tools:
 
 
 
+Versionsverwaltung: Git \& GitHub
+
+
+
+Entwicklungsumgebung: Git Bash und Powershell
+
+
+
+Kommunikation: (z. B. Discord, WhatsApp)
+
+
+
+Modellierung: (z. B. Draw.io)
 &#x09;Versionsverwaltung: Git \& GitHub
 
 
@@ -40,6 +53,8 @@ Verwendete Tools:
 
 
 Aufgabenverteilung:
+
+
 
 Die Aufgaben werden modular aufgeteilt.
 
