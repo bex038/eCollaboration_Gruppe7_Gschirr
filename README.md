@@ -18,7 +18,7 @@ Versionsverwaltung: Git \& GitHub
 
 
 
-Entwicklungsumgebung: Git Bash
+Entwicklungsumgebung: Git Bash und Powershell
 
 
 
