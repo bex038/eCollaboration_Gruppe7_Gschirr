@@ -27,6 +27,19 @@ Kommunikation: (z. B. Discord, WhatsApp)
 
 
 Modellierung: (z. B. Draw.io)
+&#x09;Versionsverwaltung: Git \& GitHub
+
+
+
+&#x09;Entwicklungsumgebung: Git Bash
+
+
+
+&#x09;Kommunikation: (z. B. Discord, WhatsApp)
+
+
+
+&#x09;Modellierung: (z. B. Draw.io)
 
 
 
