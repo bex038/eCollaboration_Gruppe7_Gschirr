@@ -1,4 +1,4 @@
-# eCollaboration\_Gruppe7\_Gschirr
+# Gruppenname: Bestes Team
 
 
 
