@@ -4,6 +4,7 @@ Mathias:
 
 Zusammenarbeit in der Gruppe:
 
+Dieser Inhalt wird nicht bewertet. :)
 Verwendete Tools:
     Versionsverwaltung: Git und Github
     Entwicklungsumgebung: Git Bash
