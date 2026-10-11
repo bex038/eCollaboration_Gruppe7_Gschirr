@@ -4,6 +4,17 @@ Mathias:
 
 Zusammenarbeit in der Gruppe:
 
+Lia Lechner 
+
+
+
+&#x09;verwendete Tools: Git, GitHub, Terminal
+
+&#x09;Erreichbarkeit: WhatsApp, Discord
+
+&#x09;Aufgabenverteilung: Aufgaben werden modular aufgeteilt.
+
+INHALT - keine Bewertung
 Dieser Inhalt wird nicht bewertet. :)
 Verwendete Tools:
     Versionsverwaltung: Git und Github
