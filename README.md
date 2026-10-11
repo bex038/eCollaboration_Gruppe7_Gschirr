@@ -1,4 +1,4 @@
-# eCollaboration\_Gruppe7\_Gschirr
+# Gruppenname: Gruppe 7
 
 Mathias:
 
@@ -17,9 +17,9 @@ Lia Lechner
 INHALT - keine Bewertung
 Dieser Inhalt wird nicht bewertet. :)
 Verwendete Tools:
-    Versionsverwaltung: Git und Github
-    Entwicklungsumgebung: Git Bash
-    Kommunikation: Discorod, Whatsapp
+Versionsverwaltung: Git und Github
+Entwicklungsumgebung: Git Bash
+Kommunikation: Discorod, Whatsapp
 
 
 
@@ -52,7 +52,7 @@ Kommunikation: (z. B. Discord, WhatsApp)
 
 
 Modellierung: (z. B. Draw.io)
-&#x09;Versionsverwaltung: Git \& GitHub
+	Versionsverwaltung: Git \& GitHub
 
 
 
@@ -76,4 +76,5 @@ Die Aufgaben werden modular aufgeteilt.
 
 Test2
 
-Wird hiermit getestet, der Inhalt wird nicht bewertet. 
+Wird hiermit getestet, der Inhalt wird nicht bewertet.
+
